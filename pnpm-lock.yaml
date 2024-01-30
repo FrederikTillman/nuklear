@@ -1,8 +1,8 @@
-lockfileVersion: 5.4
+lockfileVersion:*5.4
 
 importers:
 
-  .:
+* .:
     specifiers:
       '@commitlint/cli': ^13.1.0
       '@commitlint/config-angular': ^13.1.0
@@ -3819,3 +3819,4 @@ packages:
     resolution: {integrity: sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==}
     engines: {node: '>=10'}
     dev: true
+ 
